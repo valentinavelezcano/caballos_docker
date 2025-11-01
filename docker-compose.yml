@@ -1,0 +1,8 @@
+version: '3.8'
+
+services:
+  Caballos:
+    build:
+      context: ./Caballos
+    ports:
+      - "5000:5000"
