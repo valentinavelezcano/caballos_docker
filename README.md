@@ -1,4 +1,4 @@
-Prueba de README
+# Prueba de README
 
 1. Se crea el repositorio local
 2. Se crea el repositorio en github
